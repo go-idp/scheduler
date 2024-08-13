@@ -1,4 +1,4 @@
 package scheduler
 
 // Version is the version of ingress
-var Version = "0.0.2"
+var Version = "1.0.0"
